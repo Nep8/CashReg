@@ -1,0 +1,27 @@
+
+
+----------- WACKDonalds Transaction -----------
+Date & Time: 2025-06-06 23:44:41
+Your username: GianM
+Items purchased: 
+- WackBurger x5 @ PHP 70.0
+- Wacky Fries x10 @ PHP 59.0
+- Avocado Ice Cream x10 @ PHP 39.0
+- Chicken Burger Pastil x1 @ PHP 99.0
+Total Amount: PHP 1429.0
+Amount Paid: PHP 1500.0
+Change Given: PHP 71.0
+----------------------
+
+----------- WACKDonalds Transaction -----------
+Date & Time: 2025-06-06 23:46:30
+Your username: GabrielleM
+Items purchased: 
+- WackMuffin x1 @ PHP 68.0
+- Chicken Burger Pastil x1 @ PHP 99.0
+- Wacky Fries x1 @ PHP 59.0
+- WackBurger x1 @ PHP 70.0
+Total Amount: PHP 296.0
+Amount Paid: PHP 296.0
+Change Given: PHP 0.0
+----------------------
